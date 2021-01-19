@@ -2,11 +2,11 @@
 
 1. What would the following code return: `'1' == 1`
 
-- [ ] true
+- [x] true
 - [ ] false
 
 2. Choose the correct operator to express _or_ logic
 
 - [ ] `a | b`
-- [ ] `a || b`
+- [x] `a || b`
 - [ ] `a or b`
